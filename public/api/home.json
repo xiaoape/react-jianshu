@@ -1,0 +1,48 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "28岁月薪5000工作朝九晚五，感到非常迷茫，我到底该如何改变？",
+			"desc": "改变是痛苦，但不改变会更加痛苦。——马云 1 “春节过后，我28岁了，工作却是早九晚五，看到同学们都年薪几十万，我感觉非常焦虑和迷茫，精神也变得...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/1705687-d15a56f9f0b3bd88.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 2,
+			"title": "网易云那些戳心窝热评：暧昧上头的那一刻，像极了爱情",
+			"desc": "最近疯狂的沉迷于网易云，总在里面能都看到很多戳心的句子，看到很多雷同的故事，原来真的应了那句：“听闻爱情，十有九悲。” 有人曾说:爱上一首歌可...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/8828309-9f0d2c79848c27ef.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 3,
+			"title": "读书app哪个好用？我帮大家做了一个测评",
+			"desc": "其实之前也用过不少读书类APP，但是要么看到一半收费，要么压根就看不了，你说买实体书吧，看着看着就把内容给忘了，一些看的时候觉得好的段落也懒得回...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/13665754-28fbcd3071c587be.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 4,
+			"title": "辛弃疾最经典的一首婉约词，最后20字，字字精彩",
+			"desc": "他，自幼生在金人占领区，却立志收复中原，报国雪耻。 他21岁举兵起义，他22岁率领五十多人冲进几万人的敌营，把叛徒张安国擒拿回建康，交给南宋朝廷...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/15243823-b6dccecd7ea058e9?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		}, {
+			"id": 2,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		},{
+			"id":3,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		},{
+			"id":4,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+		}]
+	}
+}
